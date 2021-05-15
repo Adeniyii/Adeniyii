@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Twitter Link](https://img.shields.io/twitter/follow/Adeniyii?color=1DA1F2&label=%Adeniyii&logo=Twitter&style=flat)](https://twitter.com/Adeniyii)
+[![Twitter Link](https://img.shields.io/twitter/follow/Adeniyii?color=1DA1F2&label=%40Adeniyii&logo=Twitter&style=flat)](https://twitter.com/Adeniyii)
 
 ### About me
 
