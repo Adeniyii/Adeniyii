@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Twitter Link](https://img.shields.io/twitter/follow/shrekthewall?color=1DA1F2&label=%40Adeniyii&logo=Twitter&style=flat)](https://twitter.com/shrekthewall)
 
-### About me
+### 💬 About me
 
 I am Ifedayo Adeniyi, a Nigerian Software Engineer. I’m a big lover of everything back-end and front-end related. I have worked with React, Gatsby and head-less CMS's like Contentful and netlify on the frontend, while using NodeJS and mongoDB/PostgreSQL on the backend. Coming from an engineering background, problem solving is second nature to me, along with non-technical communication, team-driven development, and focus on cost-efficient solutions.
 
-#### 👨‍💻 Skills
+#### ⚡ Skills
 - NodeJS
 - React
 - Gatsby
@@ -30,6 +30,6 @@ I am Ifedayo Adeniyi, a Nigerian Software Engineer. I’m a big lover of everyth
 - PostgreSQL
 - JavaScript/TypeScript
 
-### Contact
+### 📫 Contact
 
 > :email: Interested in working together? Shoot me a message: ifedayoadeniyi@gmail.com
