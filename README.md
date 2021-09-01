@@ -1,34 +1,16 @@
-### Hi there, I am Ifedayo Adeniyi 👋
+<h3 align="center">
+  👋 Hi, I'm Ifedayo.
+</h3>
 
-<!--
-**Adeniyii/Adeniyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <span><a href="https://ifedeniyi.netlify.app/">Website</a> 🕳 <a href="https://hashnode.com/@Deniyi">Blog</a> 🕳 <a href="https://twitter.com/shrekthewall">Twitter</a></span>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Twitter Link](https://img.shields.io/twitter/follow/shrekthewall?color=1DA1F2&label=%40Adeniyii&logo=Twitter&style=flat)](https://twitter.com/shrekthewall)
+<!-- ### 💬 About me -->
 
-### 💬 About me
-
-I am Ifedayo Adeniyi, a Nigerian Software Engineer. I’m a big lover of everything back-end and front-end related. I have worked with React, Gatsby and head-less CMS's like Contentful and netlify on the frontend, while using NodeJS and mongoDB/PostgreSQL on the backend. Coming from an engineering background, problem solving is second nature to me, along with non-technical communication, team-driven development, and focus on cost-efficient solutions.
-
-#### ⚡ Skills
-- NodeJS
-- React
-- Gatsby
-- Docker
-- Git
-- MongoDB
-- PostgreSQL
-- JavaScript/TypeScript
+I'm an intern Software Engineer at [HNG](https://hng.tech/), working on super secret stuff. I also work on open source projects I'm passionate about, especially within the Golang community. I'm a [React](https://reactjs.org/) fan on the frontend, and a bigger [NodeJS](https://nodejs.org/) fan on the backend, but dabble in [Go](https://golang.org/) sometimes. I love writing about tech, and I'm currently taking a course in technical writing at [Penmen](https://medium.com/penmen). Coming from an engineering background, problem solving and a focus on cost-efficient solutions is second nature to me.
 
 ### 📫 Contact
 
