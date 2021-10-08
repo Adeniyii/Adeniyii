@@ -15,7 +15,7 @@ I'm a NodeJS Software Engineer at [HNG](https://hng.tech/), working on super sec
 
 #### Pronouns
 
-🎲 dono/sama
+🎲 dono ◼ sama
 
 
 #### 📫 Contact
