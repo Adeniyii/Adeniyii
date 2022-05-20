@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <span><a href="https://ifedeniyi.netlify.app/">Website</a> 🕳 <a href="https://hashnode.com/@Deniyi">Blog</a> 🕳 <a href="https://twitter.com/dayodeniyi">Twitter</a></span>
+  <span><a href="https://ifedayo.tech">Website</a> 🕳 <a href="https://hashnode.com/@Deniyi">Blog</a> 🕳 <a href="https://twitter.com/dayodeniyi">Twitter</a></span>
 </p>
 
 ---
