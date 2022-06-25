@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <span><a href="https://ifedayo.tech">Website</a>  |  <a href="https://read.cv/deniyi">CV</a></span>
+  <span><a href="https://ifedayo.tech">Portfolio</a>  |  <a href="https://read.cv/deniyi">CV</a></span>
 </p>
 
 ---
