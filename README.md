@@ -10,7 +10,7 @@
 
 #### 💬 About
 
-I'm a Frontend developer at [BetaQuick](https://betaquick.com/), working on super exciting stuff, while also taking on side projects I'm passionate about. I'm a [Next.js](https://nextjs.org/) fan on the frontend, and a bigger [NodeJS](https://nodejs.org/) fan on the backend. I dabble in C sometimes, and I'm currently enrolled in a software engineering bootcamp at [Holberton - Alx](https://www.holbertonschool.com/). When I'm not coding, I'm either getting some quality time with my trusty companion, Archer 🐶, in the gym, or vibing to Hov 🎙.
+I'm a Frontend developer at [BetaQuick](https://betaquick.com/), working on super exciting stuff, while also taking on side projects I'm passionate about. I'm a [Next.js](https://nextjs.org/) fan on the frontend, and a bigger [NodeJS](https://nodejs.org/) fan on the backend. I dabble in C sometimes, and I'm currently enrolled in a software engineering bootcamp at [Holberton - Alx](https://www.holbertonschool.com/). When I'm not coding, I'm either getting some quality time with my trusty companion (Archer 🐶), in the gym, or vibing to Hov 🎙.
 
 
 #### 📫 Contact
