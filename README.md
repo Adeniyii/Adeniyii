@@ -15,4 +15,4 @@ I'm a Frontend developer at [BetaQuick](https://betaquick.com/), working on supe
 
 #### 📫 Contact
 
-> :email: Interested in working together? Shoot me a message: ifedayoadeniyi@gmail.com
+> Interested in working together? Shoot me a message: ifedayoadeniyi@gmail.com
