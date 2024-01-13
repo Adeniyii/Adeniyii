@@ -1,6 +1,6 @@
 **Hi, I'm  Ifedayo (/ee-feh-dah-yuh/)**
 
-I like animations, fast interfaces, and C.
+I like animation, fast interfaces, and C.
 
 My [personal website is here](https://ifedayo.tech).
 
