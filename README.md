@@ -1,22 +1,18 @@
-<!-- ### 👋 I'm [Ifedayo](https://www.ifedayo.tech/) 
+**Hi, I'm  Ifedayo (/ee-feh-dah-yuh/)**
 
-I am a Software Engineer with a background in Surveying and Geoinformatics Engineering. I love solving complex UI and algorithmic problems, and enjoy coding competitions. I'm currently exploring AI, and contributing to Open Source.
+I like animations, fast interfaces, and C.
 
+My [personal website is here](https://ifedayo.tech).
 
-### Skills and Expertise
+<!--
 ---
-**Programming Languages:** Python, JavaScript (TypeScript), C, Golang, SQL, Bash
 
-**Web Development:** 
+I sporadically dump streams of consciousness into tiny blog posts called [**fragments**](https://ifedayo.tech/fragments):
 
-- _Frontend Development:_ UI Development (ReactJS, NextJS, Framer Motion, RadixUI), State Management (Valtio, Zustand, Redux), Data Fetching and Caching (TanStack Query, Apollo Client), Styling (TailwindCSS)
-- _Backend Development:_ API Design and Development (REST, GraphQL), Caching Systems (Redis), Unit and Integration Testing, Queuing Systems, Data Modeling (MySQL, MongoDB, Prisma, PlanetScale, Firebase), User Authentication and Authorization (Clerk, NextAuth)
+* 🍂 [The peanut gallery](https://brandur.org/fragments/the-peanut-gallery) <sub><em>October 14, 2023</em></sub>
+* 🍂 [Optimizing row storage in 8-byte chunks](https://brandur.org/fragments/postgres-row-optimization) <sub><em>October 12, 2023</em></sub>
+* 🍂 [Being a good web denizen: Don&#39;t strip EXIF metadata from photos](https://brandur.org/fragments/stop-stripping-exif) <sub><em>October 4, 2023</em></sub>
 
-**DevOps:** Configuration Management, Webstack Monitoring and Debugging, Database Administration 
-
-**Systems Development:** Compiler Design, 3D Rendering (with Ray-casting), CLI Development
-
-**Frameworks & Other:** Git, ReactJS, ExpressJS, Flask, HAProxy, Fabric, Puppet, ufw, OpenSSL, SSH, Nginx, Docker, OpenAI
--->
 <!--
 <img alt="I'll get you next time." src="https://github.com/Adeniyii/Adeniyii/blob/nice/chill.gif?raw=true" width="100%">
+-->
