@@ -18,5 +18,5 @@ I am a Software Engineer with a background in Surveying and Geoinformatics Engin
 
 **Frameworks & Other:** Git, ReactJS, ExpressJS, Flask, HAProxy, Fabric, Puppet, ufw, OpenSSL, SSH, Nginx, Docker, OpenAI
 -->
-
-<img alt="I'll get you next time." src="https://github.com/Adeniyii/Adeniyii/blob/main/chill.gif?raw=true" width="100%">
+<!--
+<img alt="I'll get you next time." src="https://github.com/Adeniyii/Adeniyii/blob/nice/chill.gif?raw=true" width="100%">
