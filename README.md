@@ -1,4 +1,4 @@
-### 👋 I'm [Ifedayo](https://www.ifedayo.tech/) 
+<!-- ### 👋 I'm [Ifedayo](https://www.ifedayo.tech/) 
 
 I am a Software Engineer with a background in Surveying and Geoinformatics Engineering. I love solving complex UI and algorithmic problems, and enjoy coding competitions. I'm currently exploring AI, and contributing to Open Source.
 
@@ -17,3 +17,6 @@ I am a Software Engineer with a background in Surveying and Geoinformatics Engin
 **Systems Development:** Compiler Design, 3D Rendering (with Ray-casting), CLI Development
 
 **Frameworks & Other:** Git, ReactJS, ExpressJS, Flask, HAProxy, Fabric, Puppet, ufw, OpenSSL, SSH, Nginx, Docker, OpenAI
+-->
+
+<img alt="I'll get you next time." src="https://github.com/Adeniyii/Adeniyii/blob/main/nice.gif?raw=true" width="100%">
