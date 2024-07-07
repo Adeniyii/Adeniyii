@@ -13,5 +13,5 @@ I sporadically dump streams of consciousness into [**tiny blog posts**](https://
 * 🍂 [Intro to linked lists in C](https://ifedayo.tech/blog/introduction-to-linked-lists-in-c) <sub><em>October 12, 2023</em></sub>
 -->
 
-<img alt="teheehee" src="https://github.com/Adeniyii/Adeniyii/blob/nice.gif?raw=true" width="100%">
+<img alt="teheehee" src="https://github.com/Adeniyii/Adeniyii/blob/main/nice.gif?raw=true" width="100%">
 
